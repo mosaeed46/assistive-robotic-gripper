@@ -31,6 +31,11 @@ This team engineering project combined mechanical design, embedded control, rapi
 
 ## My contributions
 
+- Co-developed the initial assistive-gripper concept and helped translate it into a functional prototype.
+- Contributed to CAD modelling and design refinement of the mechanical components.
+- Supported 3D printing, part preparation, and prototype fabrication.
+- Soldered electrical connections and assisted with circuit assembly.
+- Assembled the mechanical and electrical subsystems and integrated them into the final prototype.
 - Developed and refined the Arduino control logic.
 - Defined prototype objectives, constraints, and testing metrics.
 - Contributed to durability, dimensional, and functional testing.
